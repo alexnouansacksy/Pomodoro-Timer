@@ -19,7 +19,7 @@ int myTimer(int min, int type) {
         } else {
             printf("\n%d:%d remaining", minutes, seconds);
         }
-        sleep(0.1);
+        sleep(1);
         timeremaining--;
     }
     printf("\nTimer Ended!\n");
