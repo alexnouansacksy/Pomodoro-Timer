@@ -1,8 +1,10 @@
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "Project1Helper.h"
 
 int main() {
+
     int num = -1;
 
     char alex[20][200];
